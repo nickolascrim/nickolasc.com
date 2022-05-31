@@ -1,0 +1,9 @@
+tree:
+  -
+    id: c5b1e55e-f6e9-4b25-8f60-b1328035900a
+    title: Hire
+    url: /hire
+  -
+    id: d34dc34e-333b-4815-a802-8f4ed3e8d22d
+    title: Blog
+    url: /blog
